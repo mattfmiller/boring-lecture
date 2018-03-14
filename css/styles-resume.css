@@ -1,0 +1,18 @@
+.edu {
+  color: green;
+  font-family: cursive;
+}
+
+.work {
+  color: red;
+  font-family: fantasy;
+}
+
+.exp {
+  color: blue;
+}
+
+.skills {
+  color: black;
+  font-weight: bold;
+}
